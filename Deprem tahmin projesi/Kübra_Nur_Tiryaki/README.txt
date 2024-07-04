@@ -1,4 +1,2 @@
-Hocam merhaba. 
-DM-Report dokümanında klasik olarak bize hazırlatılan Rapor tipinde bir Report hazırladım. 
-DMReport2 dokümanında da sizin Drive'a yüklediğiniz formatta bir report hazırladım. 
-Yüklediğiniz dokümanla aynı formatta yapmamızı isteyip istemediğinizden emin olamadığım için 2 formatta da report hazırladım.
+Using geological data from AFAD, I developed a model utilizing historical earthquake data to forecast potential future earthquakes within a few parameters that are essential to our project.
+You can also access the project report from the DMReport2.pdf section.
